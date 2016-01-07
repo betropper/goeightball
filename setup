@@ -1,0 +1,4 @@
+# remember source me, don't run me
+export GOPATH=$HOME/repos/goeightball
+export GOBIN=$HOME/repos/goeightball/bin
+export PATH=$HOME/repos/goeightball/bin:$PATH
